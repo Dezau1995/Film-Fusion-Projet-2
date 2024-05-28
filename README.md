@@ -8,7 +8,7 @@
 </p>
 
 <p> 
-      We have been a team of three to create the project
+      We have been a team of three to create the project.
 </p>
 
 <p>
