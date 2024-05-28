@@ -23,7 +23,7 @@
 }
 
 .visible:focus {
-  outline: none;
+  outline: green;
 }
 
 .dropdown-search-bar {

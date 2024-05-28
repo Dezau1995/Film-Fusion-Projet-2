@@ -45,3 +45,8 @@
 
 <p> Last command to configure everything, create a file .env based on the .env.sample</p>
 
+<p>✨ Link to the website here ☞ <a
+        href="https://film-fusion-three.vercel.app/"
+        target="_blank"
+        >https://film-fusion-three.vercel.app/</a
+      ></p>
